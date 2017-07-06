@@ -2,16 +2,14 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  相册: /photos/
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
-  #qq: "#"
-  #weixin: "#"
+  QQ: "#"
+  微信: "#"
+  公众号: "#"
+  手机: "#"
   #jianshu: "#"
   #douban: "#"
   #segmentfault: "#"
@@ -59,7 +57,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: 
 
 #是否开启分享
 share_jia: true
