@@ -6,10 +6,8 @@ menu:
 
 # SubNav
 subnav:
-  QQ: "#"
-  微信: "#"
-  公众号: "#"
-  手机: "#"
+  qq: "tencent://message/?uin=2279332879&Site=admin5.com"
+  weixin: "/images/avatar.jpg"
   #jianshu: "#"
   #douban: "#"
   #segmentfault: "#"
@@ -57,7 +55,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: 
+avatar: /images/avatar.jpg
 
 #是否开启分享
 share_jia: true
