@@ -6,14 +6,15 @@ menu:
 
 # SubNav
 subnav:
-  qq: "tencent://message/?uin=2279332879&Site=admin5.com"
-  weixin: "/images/avatar.jpg"
+  QQ: "tencent://message/?uin=317203829&Site=admin5.com&target=_blank"
+  微信: "/images/avatar.jpg"
+  个人订阅号: "#"
   #jianshu: "#"
   #douban: "#"
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
+  mail: "mailto:chenglong.990614@qq.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -52,7 +53,7 @@ weixin:
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: /favicon.ico
 
 #你的头像url
 avatar: /images/avatar.jpg
