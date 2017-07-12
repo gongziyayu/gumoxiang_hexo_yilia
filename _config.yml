@@ -79,7 +79,7 @@ disqus: false
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
   # 头像上面的背景颜色
-  header: '#4d4d4d'
+  header: '#87CEEB'
   # 右滑板块背景
   slider: 'linear-gradient(200deg,#a0cfe4,#e8c37e)'
 
@@ -99,11 +99,15 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost:4000/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
+  我的CSDN: http://blog.csdn.net/gongziyayu
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: '<font size="3px" color="blue">&emsp;我是一名技术不算很好的程序猿…</br>
+&emsp;希望记录坑过的点点滴滴能帮助到正在焦头烂额的你们</br></br>
+&emsp;我偶尔会看一些杂乱的书籍，或许阳春白雪，或许下里巴人…</br>
+&emsp;希望在路过的你们能藉此消磨些许无聊</br></br>
+&emsp;我偶尔会分享一些悲欢，感慨一些春秋…</br>
+&emsp;希望驻足于此的你们偶尔能以吾之情浇汝之块垒</br></br>
+&emsp;我还会思考一些世间情事，絮叨一些心中体悟…</br>
+&emsp;希望路过的你如果看到它，能得到一丁点的帮助</br></br>
+&emsp;………………</br>&emsp;………………</br>&emsp;………………</br></br>
+&emsp;我是一名博主，期待与您的相遇</font>'
