@@ -6,9 +6,8 @@ menu:
 
 # SubNav
 subnav:
-  QQ: "tencent://message/?uin=317203829&Site=admin5.com&target=_blank"
+  qq: "tencent://message/?uin=317203829&Site=admin5.com&target=_blank"
   weixin: "/images/gerendingyuehao.jpg"
-  个人订阅号: "#"
   #jianshu: "#"
   #douban: "#"
   #segmentfault: "#"
