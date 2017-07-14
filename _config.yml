@@ -47,7 +47,7 @@ reward_wording: '蒙君青眼，永铭五内'
 alipay: 
 # 微信二维码图片地址
 weixin: "/images/pay/wxpay.png"
-
+rss: true
 # Miscellaneous
 baidu_analytics: true
 google_analytics: ''
