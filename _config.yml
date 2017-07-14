@@ -69,8 +69,8 @@ duoshuo: false
 wangyiyun: false
 
 #3、畅言
-changyan_appid: false
-changyan_conf: false
+changyan_appid: 'cyt71fmVn'
+changyan_conf: 'prod_104709e5ada846a09f0c8c7531d635cd'
 
 #4、Disqus 在hexo根目录的config里也有disqus_shortname字段，优先使用yilia的
 disqus: false
@@ -85,7 +85,7 @@ style:
 # slider的设置
 slider:
   # 是否默认展开tags板块
-  showTags: false
+  showTags: true
 
 # 智能菜单
 # 如不需要，将该对应项置为false
