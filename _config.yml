@@ -42,9 +42,9 @@ open_in_new: false
 # 打赏基础设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
 reward_type: 2
 # 打赏wording
-reward_wording: '蒙君青眼，永铭五内'
+reward_wording: 建议打赏1-10元
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
-alipay: 
+alipay: "/images/pay/alipay.png"
 # 微信二维码图片地址
 weixin: "/images/pay/wxpay.png"
 rss: true
@@ -57,7 +57,7 @@ favicon: /favicon.ico
 avatar: /images/avatar.jpg
 
 #是否开启分享
-share_jia: true
+jiathis: true
 
 #评论：1、多说；2、网易云跟帖；3、畅言；4、Disqus 不需要使用某项，直接设置值为false，或注释掉
 #具体请参考wiki：https://github.com/litten/hexo-theme-yilia/wiki/
@@ -83,9 +83,10 @@ style:
   slider: 'linear-gradient(200deg,#a0cfe4,#e8c37e)'
 
 # slider的设置
+canvas_nest: true
 slider:
   # 是否默认展开tags板块
-  showTags: true
+  showTags: false
 
 # 智能菜单
 # 如不需要，将该对应项置为false
