@@ -83,7 +83,6 @@ style:
   slider: 'linear-gradient(200deg,#a0cfe4,#e8c37e)'
 
 # slider的设置
-canvas_nest: true
 slider:
   # 是否默认展开tags板块
   showTags: false
