@@ -44,7 +44,7 @@ reward_type: 2
 # 打赏wording
 reward_wording: 建议打赏1-10元
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
-alipay: "/images/pay/alipay.png"
+alipay: "/images/pay/alipay.JPG"
 # 微信二维码图片地址
 weixin: "/images/pay/wxpay.png"
 rss: true
